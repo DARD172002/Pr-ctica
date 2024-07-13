@@ -1,2 +1,3 @@
 console.log("Prueba");
 const a=5;
+const b=7;
