@@ -24,6 +24,7 @@ lista.addLista("Nice")
 lista.addLista("very")
 lista.addLista("todo bien")
 lista.addLista("JAJA")
+lista.addLista("Start")
 lista.printLista()
 
 
