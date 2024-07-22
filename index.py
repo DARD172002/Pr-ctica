@@ -23,6 +23,7 @@ lista=Lista("hola")
 lista.addLista("Nice")
 lista.addLista("very")
 lista.addLista("todo bien")
+lista.addLista("JAJA")
 lista.printLista()
 
 
