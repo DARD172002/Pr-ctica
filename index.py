@@ -22,9 +22,8 @@ class Lista():
 lista=Lista("hola")
 lista.addLista("Nice")
 lista.addLista("very")
-a=5
 lista.printLista()
-
+a=10
 
         
     
